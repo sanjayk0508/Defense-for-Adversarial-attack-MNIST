@@ -1,4 +1,4 @@
- # **Defense for Adversarial attack-MNIST**
+ # **Defense for Adversarial attack-MNIST Dataset**
 
 ## **Introduction**
 
