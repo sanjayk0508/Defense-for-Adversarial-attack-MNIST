@@ -1,5 +1,7 @@
  # **Defense for Adversarial attack-MNIST Dataset**
 
+This notebook explores various defense methods against adversarial attacks on machine learning models, utilizing the Adversarial Robustness Toolbox (ART). **I highly recommend reviewing the Google Colab notebook, as everything has been written clearly and demonstrated properly📝.**
+
 ## **Introduction**
 
 This repository explores defenses against adversarial attacks in machine learning, implemented using the Adversarial Robustness Toolbox (ART). 
@@ -21,7 +23,7 @@ This repository explores defenses against adversarial attacks in machine learnin
 
 5. **Postprocessor:** The postprocessing defense involves applying specific modifications to the model's outputs, creating a veil over their inherent meaning, thus thwarting potential attackers seeking to steal the model. By obscuring the decision-making process within the postprocessed outputs, this defense acts as a deterrent against model theft.
 
-**Code Examples**
+**Defense Code Examples**
 
 **Detector Defense (Activation Defense):**
 
